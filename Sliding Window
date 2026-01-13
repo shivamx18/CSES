@@ -1,7 +1,11 @@
 1. Sliding Window Sum - https://cses.fi/paste/e8c4e3f189dea2a0f28d88/
 2. Sliding Window Minimum - https://cses.fi/paste/840f0db25801b2e7f28dd0/
 3. Sliding Window Xor - https://cses.fi/paste/ba9c95fe8fb1196bf28de6/
-4. Sliding Window Or - Not Solved Yet
+4. Sliding Window Or -
+                    {
+                       Solution 1 -> https://cses.fi/paste/91a1f96c8ebb0426f2eec7/
+                       Solution 2 -> https://cses.fi/paste/bad4bb51be001eddf2e9e6/
+                    }
 5. Sliding Window Distinct Values - https://cses.fi/paste/48f7ec6d90d26f9fefc1f3/
 6. Sliding Window Mode - https://cses.fi/paste/41e06ea46a960034f290b5/
 7. Sliding Window Mex - https://cses.fi/paste/ccc20a3a51ff0534f290c6/
